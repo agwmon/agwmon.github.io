@@ -10,7 +10,7 @@ redirect_from:
 
 I am a MS student at KAIST ([MLAI Lab](https://www.mlai-kaist.com/)), working under the supervision of [Sung Ju Hwang](http://www.sungjuhwang.com/).
 
-My research focuses on computer vision and deep learning, in particular, generative tasks using multimodal foundation models, such as text-to-image models. Currently, my main interest include diffusion models and personalization of generative models.
+My research focuses on computer vision and deep learning, particularly generative tasks using multimodal foundation models like text-to-image models. Currently, I'm interested in diffusion models and the personalization of generative models.
 
 <!-- Here is my [CV](https://Dagwmon.github.io/files/CV.pdf). -->
 
