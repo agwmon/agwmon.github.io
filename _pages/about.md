@@ -19,9 +19,9 @@ Email: sangwon.jang [at] kaist [dot] ac [dot] kr <br>
 
 
 
-## Publications
+## Publications (\*: equal contribution / ^: equal advising)
 - <font size="4"><b>Identity Decoupling for Multi-Subject Personalization of Text-to-Image Models</b></font> [[website]](https://mudi-t2i.github.io/) [[paper]](https://arxiv.org/abs/2404.04243) [[code]](https://github.com/agwmon/MuDI)<br>
-&#x200B;<U>Sangwon Jang</U>\*, Jaehyeong Jo\*, Kimin Lee\^, Sung Ju Hwang\^ <br>
+&#x200B;<U>Sangwon Jang</U>\*, Jaehyeong Jo\*, Kimin Lee^, Sung Ju Hwang^ <br>
 <span> Conference on Neural Information Processing Systems **(NeurIPS)**, </span> 2024
 
 - <font size="4"><b>Text-Conditioned Sampling Framework for Text-to-Image Generation with Masked Generative Models</b></font> [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Lee_Text-Conditioned_Sampling_Framework_for_Text-to-Image_Generation_with_Masked_Generative_Models_ICCV_2023_paper.html) <br>
