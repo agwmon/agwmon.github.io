@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://agwmon.github.io/sitemap.xml
