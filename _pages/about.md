@@ -20,7 +20,7 @@ Email: sangwon.jang [at] kaist [dot] ac [dot] kr <br>
 
 
 ## Publications (\*: equal contribution / ^: equal advising)
-- <font size="4"><b>Silent Branding Attack: Trigger-free Data Poisoning Attack on Text-to-Image Diffusion Models</b></font> [[website]](https://silent-branding.github.io/) [[paper]](https://arxiv.org/abs/2503.09669)<br>
+- <font size="4"><b>Silent Branding Attack: Trigger-free Data Poisoning Attack on Text-to-Image Diffusion Models</b></font> [[website]](https://silent-branding.github.io/) [[paper]](https://arxiv.org/abs/2503.09669) [[code]](https://github.com/agwmon/silent-branding-attack)<br>
 &#x200B;<U>Sangwon Jang</U>, June Suk Choi, Jaehyeong Jo, Kimin Lee^, Sung Ju Hwang^ <br>
 <span> Conference on Computer Vision and Pattern Recognition **(CVPR)**, </span> 2025
 
