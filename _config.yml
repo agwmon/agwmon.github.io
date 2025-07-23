@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sangwon Jang"
 title_separator          : "-"
 name                     : &name "Sangwon Jang"
-description              : &description "MS Student at KAIST"
+description              : &description "PhD Student at KAIST"
 url                      : https://agwmon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "agwmon/agwmon.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sangwon Jang"
   avatar           : "profile.jpg"
-  bio              : "MS Student at KAIST"
+  bio              : "PhD Student at KAIST"
   location         : "Seoul, Rep. of Korea"
   employer         :
   pubmed           : 

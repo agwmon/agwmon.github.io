@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a MS student at KAIST ([MLAI Lab](https://www.mlai-kaist.com/)), working under the supervision of [Sung Ju Hwang](http://www.sungjuhwang.com/).
+I am a PhD student at KAIST ([MLAI Lab](https://www.mlai-kaist.com/)), working under the supervision of [Sung Ju Hwang](http://www.sungjuhwang.com/).
 
 My research focuses on computer vision and deep learning, particularly generative tasks using multimodal foundation models like text-to-image models. Currently, I'm interested in the personalization of generative models and controllable video generation.
 
@@ -20,11 +20,11 @@ Email: sangwon.jang [at] kaist [dot] ac [dot] kr <br>
 
 
 ## Publications (\*: equal contribution / ^: equal advising)
-- <font size="4"><b>Silent Branding Attack: Trigger-free Data Poisoning Attack on Text-to-Image Diffusion Models</b></font> [[website]](https://silent-branding.github.io/) [[paper]](https://arxiv.org/abs/2503.09669) [[code]](https://github.com/agwmon/silent-branding-attack)<br>
+- <font size="4"><b>Silent Branding Attack: Trigger-free Data Poisoning Attack on Text-to-Image Diffusion Models</b></font> [[project]](https://silent-branding.github.io/) [[paper]](https://arxiv.org/abs/2503.09669) [[code]](https://github.com/agwmon/silent-branding-attack)<br>
 &#x200B;<U>Sangwon Jang</U>, June Suk Choi, Jaehyeong Jo, Kimin Lee^, Sung Ju Hwang^ <br>
 <span> Conference on Computer Vision and Pattern Recognition **(CVPR)**, </span> 2025
 
-- <font size="4"><b>Identity Decoupling for Multi-Subject Personalization of Text-to-Image Models</b></font> [[website]](https://mudi-t2i.github.io/) [[paper]](https://arxiv.org/abs/2404.04243) [[code]](https://github.com/agwmon/MuDI)<br>
+- <font size="4"><b>Identity Decoupling for Multi-Subject Personalization of Text-to-Image Models</b></font> [[project]](https://mudi-t2i.github.io/) [[paper]](https://arxiv.org/abs/2404.04243) [[code]](https://github.com/agwmon/MuDI)<br>
 &#x200B;<U>Sangwon Jang</U>\*, Jaehyeong Jo\*, Kimin Lee^, Sung Ju Hwang^ <br>
 <span> Conference on Neural Information Processing Systems **(NeurIPS)**, </span> 2024
 
@@ -33,7 +33,7 @@ Email: sangwon.jang [at] kaist [dot] ac [dot] kr <br>
 <span> International Conference on Computer Vision **(ICCV)**</span>, 2023
 
 ## Preprints
-- <font size="4"><b>Frame Guidance: Training-Free Guidance for Frame-Level Control in Video Diffusion Models</b></font> [[website]](https://frame-guidance-video.github.io/) [[paper]](https://arxiv.org/abs/2506.07177) [[code]](https://github.com/agwmon/frame-guidance)<br>
+- <font size="4"><b>Frame Guidance: Training-Free Guidance for Frame-Level Control in Video Diffusion Models</b></font> [[project]](https://frame-guidance-video.github.io/) [[paper]](https://arxiv.org/abs/2506.07177) [[code]](https://github.com/agwmon/frame-guidance)<br>
 &#x200B;<U>Sangwon Jang</U>\*, Taekyung Ki\*, Jaehyeong Jo, Jaehong Yoon, Soo Ye Kim, Zhe Lin, Sung Ju Hwang <br> 
 <span> Preprint, 2025
 
