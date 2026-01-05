@@ -33,6 +33,10 @@ Email: sangwon.jang [at] kaist [dot] ac [dot] kr <br>
 <span> International Conference on Computer Vision **(ICCV)**</span>, 2023
 
 ## Preprints
+- <font size="4"><b>Avatar Forcing: Real-Time Interactive Head Avatar Generation for Natural Conversation</b></font> [[project]](https://taekyungki.github.io/AvatarForcing/) [[paper]](https://arxiv.org/abs/2601.00664) [[code]](https://github.com/TaekyungKi/AvatarForcing)<br>
+&#x200B;Taekyung Ki\*, <U>Sangwon Jang</U>\*, Jaehyeong Jo, Jaehong Yoon, Sung Ju Hwang <br> 
+<span> Preprint, 2026
+
 - <font size="4"><b>Frame Guidance: Training-Free Guidance for Frame-Level Control in Video Diffusion Models</b></font> [[project]](https://frame-guidance-video.github.io/) [[paper]](https://arxiv.org/abs/2506.07177) [[code]](https://github.com/agwmon/frame-guidance)<br>
 &#x200B;<U>Sangwon Jang</U>\*, Taekyung Ki\*, Jaehyeong Jo, Jaehong Yoon, Soo Ye Kim, Zhe Lin, Sung Ju Hwang <br> 
 <span> Preprint, 2025
