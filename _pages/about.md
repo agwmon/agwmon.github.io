@@ -37,7 +37,7 @@ Last updated: Jan. 27, 2026
 <span> International Conference on Computer Vision **(ICCV)**</span>, 2023
 
 ## Preprints
-- <font size="4"><b>Self-Refining Video Sampling</b></font> [[project]](https://agwmon.github.io/self-refine-video/) [[paper]](https://agwmon.github.io/self-refine-video/) [[code]](https://github.com/agwmon/self-refine-video)<br>
+- <font size="4"><b>Self-Refining Video Sampling</b></font> [[project]](https://agwmon.github.io/self-refine-video/) [[paper]](https://arxiv.org/abs/2601.18577) [[code]](https://github.com/agwmon/self-refine-video)<br>
 &#x200B;<U>Sangwon Jang</U>\*, Taekyung Ki\*, Jaehyeong Jo\*, Saining Xie, Jaehong Yoon^, Sung Ju Hwang^ <br> 
 <span> Preprint, 2026
 
