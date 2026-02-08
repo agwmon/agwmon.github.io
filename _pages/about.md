@@ -19,7 +19,7 @@ Email: sangwon.jang [at] kaist [dot] ac [dot] kr <br>
 
 Last updated: Jan. 27, 2026
 
-## Preprints
+## Preprints (\*: equal contribution / ^: equal advising)
 - <font size="4"><b>Self-Refining Video Sampling</b></font> [[project]](https://agwmon.github.io/self-refine-video/) [[paper]](https://arxiv.org/abs/2601.18577) [[code]](https://github.com/agwmon/self-refine-video)<br>
 &#x200B;<U>Sangwon Jang</U>\*, Taekyung Ki\*, Jaehyeong Jo\*, Saining Xie, Jaehong Yoon^, Sung Ju Hwang^ <br> 
 <span> Preprint, 2026
@@ -32,7 +32,7 @@ Last updated: Jan. 27, 2026
 &#x200B;Hyomin Lee\*, Minseon Kim\*, <U>Sangwon Jang</U>, Jongheon Jeong, Sung Ju Hwang <br> 
 <span> Preprint, 2025
 
-## Publications (\*: equal contribution / ^: equal advising)
+## Publications
 - <font size="4"><b>Frame Guidance: Training-Free Guidance for Frame-Level Control in Video Diffusion Model</b></font> [[project]](https://frame-guidance-video.github.io/) [[paper]](https://arxiv.org/abs/2506.07177) [[code]](https://github.com/agwmon/frame-guidance)<br>
 &#x200B;<U>Sangwon Jang</U>\*, Taekyung Ki\*, Jaehyeong Jo, Jaehong Yoon, Soo Ye Kim, Zhe Lin, Sung Ju Hwang <br> 
 <span> International Conference on Learning Representations <span style="color: rgb(40, 80, 180);">**(ICLR)**</span>, 2026
