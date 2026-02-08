@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student at KAIST ([MLAI Lab](https://www.mlai-kaist.com/)), working under the supervision of [Sung Ju Hwang](http://www.sungjuhwang.com/).
 
-My research focuses on computer vision and deep learning, particularly generative tasks using multimodal foundation models like text-to-image models. Currently, I'm interested in the personalization of generative models and controllable video generation.
+My research focuses on computer vision and deep learning, particularly generative tasks using multimodal foundation models like text-to-video models. Currently, I'm interested **video generative models** and the applications of generative foundation models toward complex capabilities like <span style="color: rgb(40, 80, 180);">**world modeling as physical simulator**</span> and <span style="color: rgb(40, 80, 180);">**visual reasoning**</span>.
 
 Here is my [CV](https://agwmon.github.io/files/Sangwon_CV.pdf).
 
