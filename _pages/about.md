@@ -10,7 +10,7 @@ redirect_from:
 
 [Google Scholar](https://scholar.google.com/citations?user=5SHoqOkAAAAJ&hl=ko) [CV](https://agwmon.github.io/files/Sangwon_CV.pdf)
 
-Contact: sangwon.jang [at] kaist [dot] ac [dot] kr
+Contact: sangwon.jang [at] kaist.ac.kr
 
 ## About
 
