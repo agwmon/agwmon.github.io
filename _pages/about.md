@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=5SHoqOkAAAAJ&hl=ko) [CV](https://agwmon.github.io/files/Sangwon_CV.pdf)
+[[Google Scholar](https://scholar.google.com/citations?user=5SHoqOkAAAAJ&hl=ko)] [[CV](https://agwmon.github.io/files/Sangwon_CV.pdf)]
 
 Contact: sangwon.jang [at] kaist.ac.kr
 
