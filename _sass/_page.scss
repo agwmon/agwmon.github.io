@@ -73,9 +73,15 @@
   }
 
   a {
+    color: $link-color;
     text-decoration: underline;
 
+    &:visited {
+      color: $link-color;
+    }
+
     &:hover {
+      color: $link-color-hover;
       text-decoration: underline;
 
       img {
