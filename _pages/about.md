@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[[Google Scholar](https://scholar.google.com/citations?user=5SHoqOkAAAAJ&hl=ko)] [[CV](https://agwmon.github.io/files/Sangwon_CV.pdf)]
+[[Google Scholar](https://scholar.google.com/citations?user=5SHoqOkAAAAJ&hl=ko)] [[CV](https://drive.google.com/file/d/1ld76XSOFrDfsio4u_0JCDbwiUd2tvTMO/view?usp=sharing)]
 
 Contact: sangwon.jang [at] kaist.ac.kr
 
@@ -18,7 +18,7 @@ I am a PhD student at KAIST ([MLAI Lab](https://www.mlai-kaist.com/)), working u
 
 My research focuses on computer vision and deep learning, particularly generative tasks using multimodal foundation models like text-to-video models. Currently, I'm interested **video generative models** and the applications of generative foundation models toward complex capabilities like <span style="color: rgb(40, 80, 180);">**world modeling as physical simulator**</span> and <span style="color: rgb(40, 80, 180);">**world action models (WAM)**</span>.
 
-Last updated: Feb. 21, 2026
+Last updated: May. 1, 2026
 
 ## Publications (*: equal contribution / ^: equal advising)
 
