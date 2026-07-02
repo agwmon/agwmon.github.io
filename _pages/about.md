@@ -57,4 +57,17 @@ Last updated: May. 1, 2026
 <span style="font-size: 1.08em;"><b>Enhancing Variational Autoencoders with Smooth Robust Latent Encoding</b></span><br>
 [[paper]](https://www.arxiv.org/abs/2504.17219) <br>
 &#x200B;Hyomin Lee\*, Minseon Kim\*, <U>Sangwon Jang</U>, Jongheon Jeong, Sung Ju Hwang <br> 
-<span> Preprint, 2025
+<span> Preprint, 2025</span>
+
+## Experience
+
+<div style="display: flex; justify-content: space-between; gap: 1.5em; align-items: flex-start; margin-bottom: 0.8em;">
+  <div>
+    <span>Jul. 2026 -</span><br>
+    <span style="font-size: 1.08em;"><b>NVIDIA</b></span>
+  </div>
+  <div style="text-align: right;">
+    <span>Santa Clara, CA</span><br>
+    <span>Engineering Intern</span>
+  </div>
+</div>
