@@ -8,6 +8,21 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+.page__content h2 {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  margin: 2.2em 0 1em;
+  padding: 0.55em 0.8em;
+  border: 1px solid #e5e7eb;
+  border-left: 4px solid #b8bec8;
+  border-radius: 8px;
+  background: linear-gradient(90deg, #f5f6f8, #fbfbfc);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+}
+</style>
+
 [[Google Scholar](https://scholar.google.com/citations?user=5SHoqOkAAAAJ&hl=ko)] [[CV](https://drive.google.com/file/d/1ld76XSOFrDfsio4u_0JCDbwiUd2tvTMO/view?usp=sharing)]
 
 Contact: sangwon.jang [at] kaist.ac.kr
