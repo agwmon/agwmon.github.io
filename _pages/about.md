@@ -31,9 +31,9 @@ Contact: sangwon.jang [at] kaist.ac.kr
 
 I am a PhD student at KAIST ([MLAI Lab](https://www.mlai-kaist.com/)), working under the supervision of [Sung Ju Hwang](http://www.sungjuhwang.com/).
 
-My research focuses on computer vision and deep learning, particularly generative tasks using multimodal foundation models like text-to-video models. Currently, I'm interested **video generative models** and the applications of generative foundation models toward complex capabilities like <span style="color: rgb(40, 80, 180);">**world modeling as physical simulator**</span> and <span style="color: rgb(40, 80, 180);">**world action models (WAM)**</span>.
+My research focuses on computer vision, particularly generative modeling and representation learning. Currently, I'm interested **video generative models** and their broader capabilities, including <span style="color: rgb(40, 80, 180);">**world modeling as physical simulator**</span> and <span style="color: rgb(40, 80, 180);">**world action models (WAM)**</span>.
 
-Last updated: May. 1, 2026
+Last updated: Jul. 1, 2026
 
 ## Publications (*: equal contribution / ^: equal advising)
 
