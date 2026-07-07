@@ -23,7 +23,7 @@ redirect_from:
 }
 </style>
 
-[[Google Scholar](https://scholar.google.com/citations?user=5SHoqOkAAAAJ&hl=ko)] [[CV](https://drive.google.com/file/d/1ld76XSOFrDfsio4u_0JCDbwiUd2tvTMO/view?usp=sharing)]
+[[Google Scholar](https://scholar.google.com/citations?user=5SHoqOkAAAAJ&hl)] [[CV](https://drive.google.com/file/d/1ld76XSOFrDfsio4u_0JCDbwiUd2tvTMO/view?usp=sharing)]
 
 Contact: sangwon.jang [at] kaist.ac.kr
 
