@@ -44,7 +44,7 @@ Last updated: Jul. 1, 2026
   </div>
   <div style="text-align: right;">
     <span>Santa Clara, CA</span><br>
-    <span>PhD Intern, World Foundation Model</span>
+    <span>PhD Intern</span>
   </div>
 </div>
 
