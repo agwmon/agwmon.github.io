@@ -35,6 +35,20 @@ My research focuses on computer vision, particularly generative modeling and rep
 
 Last updated: Jul. 1, 2026
 
+## Experience
+
+<div style="display: flex; justify-content: space-between; gap: 1.5em; align-items: flex-start; margin-bottom: 0.8em;">
+  <div>
+    <span>Jul. 2026 - Oct. 2026</span><br>
+    <span style="font-size: 1.08em;"><b>NVIDIA</b></span>
+  </div>
+  <div style="text-align: right;">
+    <span>Santa Clara, CA</span><br>
+    <span>PhD Intern, World Foundation Model</span>
+  </div>
+</div>
+
+
 ## Publications (*: equal contribution / ^: equal advising)
 
 <span style="font-size: 1.08em;"><b>Self-Refining Video Sampling</b></span><br>
@@ -74,15 +88,4 @@ Last updated: Jul. 1, 2026
 &#x200B;Hyomin Lee\*, Minseon Kim\*, <U>Sangwon Jang</U>, Jongheon Jeong, Sung Ju Hwang <br> 
 <span> Preprint, 2025</span>
 
-## Experience
 
-<div style="display: flex; justify-content: space-between; gap: 1.5em; align-items: flex-start; margin-bottom: 0.8em;">
-  <div>
-    <span>Jul. 2026 -</span><br>
-    <span style="font-size: 1.08em;"><b>NVIDIA</b></span>
-  </div>
-  <div style="text-align: right;">
-    <span>Santa Clara, CA</span><br>
-    <span>Engineering Intern</span>
-  </div>
-</div>
