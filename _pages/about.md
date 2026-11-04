@@ -82,7 +82,7 @@ Last updated: Nov. 3, 2026
 <span> International Conference on Computer Vision <span style="color: rgb(40, 80, 180);">**(ICCV)**</span></span>, 2023
 
 ## Preprints 
-<span style="font-size: 1.08em;"><b>EFuture Representation Distillation for Imagination-free World Action Models</b></span><br>
+<span style="font-size: 1.08em;"><b>Future Representation Distillation for Imagination-free World Action Models</b></span><br>
 [[project]](https://harryjo97.github.io/dreamfree/) [[paper]](https://arxiv.org/abs/2611.04527)<br>
 &#x200B;Jaehyeong Jo\*, <U>Sangwon Jang</U>\*, Sihyun Yu, Seonghyeon Ye, Yekyung Nah, Hojung Jung, Kimin Lee^, Sung Ju Hwang^<br> 
 <span> Preprint, 2026</span>
