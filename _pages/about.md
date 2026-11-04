@@ -21,6 +21,13 @@ redirect_from:
   background: linear-gradient(90deg, #f5f6f8, #fbfbfc);
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
 }
+
+.page__content .publication--featured .publication__title {
+  font-size: 1.08em;
+  background: linear-gradient(transparent 64%, #fff1b8 64%);
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
 </style>
 
 [[Google Scholar](https://scholar.google.com/citations?user=5SHoqOkAAAAJ&hl)] [[CV](https://drive.google.com/file/d/1wJxxufXnK3LqET7iD8nG28TUXXgGYRni/view?usp=sharing)]
@@ -49,12 +56,13 @@ Last updated: Nov. 3, 2026
 </div>
 
 
-## Publications (*: equal contribution / ^: equal advising)
+## Publications <span style="font-weight: normal;">(*: equal contribution / †: equal advising)</span>
 
-<span style="font-size: 1.08em;"><b>Self-Refining Video Sampling</b></span><br>
+<span class="publication__title"><b>Self-Refining Video Sampling</b></span><br>
 [[project]](https://agwmon.github.io/self-refine-video/) [[paper]](https://arxiv.org/abs/2601.18577) [[code]](https://github.com/agwmon/self-refine-video)<br>
-&#x200B;<U>Sangwon Jang</U>\*, Taekyung Ki\*, Jaehyeong Jo\*, Saining Xie, Jaehong Yoon^, Sung Ju Hwang^ <br> 
-<span> International Conference on Machine Learning <span style="color: rgb(40, 80, 180);">**(ICML)**</span>, 2026
+&#x200B;<U>Sangwon Jang</U>\*, Taekyung Ki\*, Jaehyeong Jo\*, Saining Xie, Jaehong Yoon<sup>†</sup>, Sung Ju Hwang<sup>†</sup> <br>
+<span> International Conference on Machine Learning <span style="color: rgb(40, 80, 180);">**(ICML)**</span>, 2026</span>
+{: .publication--featured}
 
 <span style="font-size: 1.08em;"><b>Avatar Forcing: Real-Time Interactive Head Avatar Generation for Natural Conversation</b></span><br>
 [[project]](https://taekyungki.github.io/AvatarForcing/) [[paper]](https://arxiv.org/abs/2601.00664) [[code]](https://github.com/TaekyungKi/AvatarForcing)<br>
@@ -68,12 +76,12 @@ Last updated: Nov. 3, 2026
 
 <span style="font-size: 1.08em;"><b>Silent Branding Attack: Trigger-free Data Poisoning Attack on Text-to-Image Diffusion Models</b></span><br>
 [[project]](https://silent-branding.github.io/) [[paper]](https://arxiv.org/abs/2503.09669) [[code]](https://github.com/agwmon/silent-branding-attack)<br>
-&#x200B;<U>Sangwon Jang</U>, June Suk Choi, Jaehyeong Jo, Kimin Lee^, Sung Ju Hwang^ <br>
+&#x200B;<U>Sangwon Jang</U>, June Suk Choi, Jaehyeong Jo, Kimin Lee<sup>†</sup>, Sung Ju Hwang<sup>†</sup> <br>
 <span> Conference on Computer Vision and Pattern Recognition <span style="color: rgb(40, 80, 180);">**(CVPR)**</span>, </span> 2025
 
 <span style="font-size: 1.08em;"><b>Identity Decoupling for Multi-Subject Personalization of Text-to-Image Models</b></span><br>
 [[project]](https://mudi-t2i.github.io/) [[paper]](https://arxiv.org/abs/2404.04243) [[code]](https://github.com/agwmon/MuDI)<br>
-&#x200B;<U>Sangwon Jang</U>\*, Jaehyeong Jo\*, Kimin Lee^, Sung Ju Hwang^ <br>
+&#x200B;<U>Sangwon Jang</U>\*, Jaehyeong Jo\*, Kimin Lee<sup>†</sup>, Sung Ju Hwang<sup>†</sup> <br>
 <span> Conference on Neural Information Processing Systems <span style="color: rgb(40, 80, 180);">**(NeurIPS)**</span>, </span> 2024
 
 <span style="font-size: 1.08em;"><b>Text-Conditioned Sampling Framework for Text-to-Image Generation with Masked Generative Models</b></span><br>
@@ -82,10 +90,12 @@ Last updated: Nov. 3, 2026
 <span> International Conference on Computer Vision <span style="color: rgb(40, 80, 180);">**(ICCV)**</span></span>, 2023
 
 ## Preprints 
-<span style="font-size: 1.08em;"><b>Future Representation Distillation for Imagination-free World Action Models</b></span><br>
+<span class="publication__title"><b>Future Representation Distillation for Imagination-free World Action Models</b></span><br>
 [[project]](https://harryjo97.github.io/dreamfree/) [[paper]](https://arxiv.org/abs/2611.04527)<br>
-&#x200B;Jaehyeong Jo\*, <U>Sangwon Jang</U>\*, Sihyun Yu, Seonghyeon Ye, Yekyung Nah, Hojung Jung, Kimin Lee^, Sung Ju Hwang^<br> 
+&#x200B;Jaehyeong Jo\*, <U>Sangwon Jang</U>\*, Sihyun Yu, Seonghyeon Ye, Yekyung Nah, Hojung Jung, Kimin Lee<sup>†</sup>,<br>
+<span style="white-space: nowrap;">Sung Ju Hwang<sup>†</sup></span><br>
 <span> Preprint, 2026</span>
+{: .publication--featured}
 
 <span style="font-size: 1.08em;"><b>Enhancing Variational Autoencoders with Smooth Robust Latent Encoding</b></span><br>
 [[paper]](https://www.arxiv.org/abs/2504.17219) <br>
